@@ -1,5 +1,5 @@
 # Amazon Sales Analysis
-Data analysis in Power BI
+Data analysis in Power BI: 
 This project, Amazon sales dashboard offers a comprehensive view of performance, showcasing key metrics like total sales, product unit, return, and geographical distribution. It enables quick trend identification for strategy optimization, profit improvement, and data-driven decisions, demonstrating my data analysis and visualization skills in my portfolio.
 
 Goals: Creating the Power BI Amazon sales dashboard aimed to understand sales performance, identifying patterns, and optimize strategy for better profitability. Including it in my portfolio highlights proficiency in data tools and the ability to drive business outcomes using data.
